@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/hook.jpeg</file>
+        <file>Image/cludy1.jpeg</file>
+        <file>Image/perfectrain.gif</file>
+        <file>Image/sun1.jpeg</file>
+        <file>Image/what1.jpeg</file>
+        <file>Image/left.png</file>
+        <file>Image/right.png</file>
+        <file>Image/min.png</file>
+        <file>Image/overcast.jpeg</file>
+        <file>Image/overcast1.jpeg</file>
+        <file>Image/overcast2.jpeg</file>
+        <file>Image/overcast3.jpeg</file>
+    </qresource>
+    <qresource prefix="/gif">
+        <file>Image/cloudy.gif</file>
+        <file>Image/goodsun.gif</file>
+        <file>Image/group.gif</file>
+        <file>Image/perfectrain.gif</file>
+        <file>Image/rightnight.gif</file>
+        <file>Image/sunRain.gif</file>
+        <file>Image/what.gif</file>
+        <file>Image/rain1.gif</file>
+    </qresource>
+</RCC>
